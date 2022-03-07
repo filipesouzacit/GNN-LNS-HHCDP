@@ -1,0 +1,47 @@
+{
+	 "0":{
+	 	 "location":38,
+	 	 "expertises":["Expertise1","Expertise3"],
+	 	 "min_work_time_week":124,
+	 	 "max_work_time_week":1632,
+	 	 "work_days": [1,2,3,4],
+	 	 "time_window_per_work_day": [664,1182,712,1249,693,1118,512,1038],
+	 	 "min_max_work_time_per_work_day": [25,481,5,434,46,340,89,431]
+	 },
+	 "1":{
+	 	 "location":6,
+	 	 "expertises":["Expertise2","Expertise5"],
+	 	 "min_work_time_week":486,
+	 	 "max_work_time_week":1950,
+	 	 "work_days": [0,1,3,4,5],
+	 	 "time_window_per_work_day": [530,1080,713,1215,654,1123,593,1223,557,1234],
+	 	 "min_max_work_time_per_work_day": [60,473,40,436,0,445,182,516,13,568]
+	 },
+	 "2":{
+	 	 "location":46,
+	 	 "expertises":["Expertise2","Expertise3"],
+	 	 "min_work_time_week":457,
+	 	 "max_work_time_week":1783,
+	 	 "work_days": [0,1,2,3,6],
+	 	 "time_window_per_work_day": [596,1188,581,1074,693,1338,511,1032,695,1188],
+	 	 "min_max_work_time_per_work_day": [112,526,69,488,64,593,52,468,93,443]
+	 },
+	 "3":{
+	 	 "location":128,
+	 	 "expertises":["Expertise5","Expertise1"],
+	 	 "min_work_time_week":303,
+	 	 "max_work_time_week":2257,
+	 	 "work_days": [0,1,3,4,5,6],
+	 	 "time_window_per_work_day": [732,1261,705,1377,745,1410,491,1081,520,975,616,1112],
+	 	 "min_max_work_time_per_work_day": [84,470,94,584,159,605,47,548,9,400,114,436]
+	 },
+	 "4":{
+	 	 "location":39,
+	 	 "expertises":["Expertise4","Expertise2"],
+	 	 "min_work_time_week":296,
+	 	 "max_work_time_week":1999,
+	 	 "work_days": [0,1,2,3,5],
+	 	 "time_window_per_work_day": [485,1144,480,951,560,1182,654,1181,691,1112],
+	 	 "min_max_work_time_per_work_day": [26,659,89,433,62,615,21,453,79,374]
+	 }
+}

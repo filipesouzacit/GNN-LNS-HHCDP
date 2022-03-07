@@ -1,0 +1,1352 @@
+{
+	 "0":{
+	 	 "location":53,
+	 	 "number_visits":6,
+	 	 "service_duration":50,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [740,940,857,957,501,601,730,880,569,669,710,910,847,947],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "1":{
+	 	 "location":29,
+	 	 "number_visits":6,
+	 	 "service_duration":49,
+	 	 "available_days": [0,1,2,3,4,6],
+	 	 "time_window_per_available_day": [786,933,867,1014,660,807,853,1000,651,847,804,902],
+	 	 "optional_expertises":["Expertise1","Expertise4"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "2":{
+	 	 "location":93,
+	 	 "number_visits":1,
+	 	 "service_duration":42,
+	 	 "available_days": [3],
+	 	 "time_window_per_available_day": [565,733],
+	 	 "optional_expertises":["Expertise3","Expertise1"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "3":{
+	 	 "location":126,
+	 	 "number_visits":2,
+	 	 "service_duration":43,
+	 	 "available_days": [2,6],
+	 	 "time_window_per_available_day": [766,852,673,802],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "4":{
+	 	 "location":64,
+	 	 "number_visits":2,
+	 	 "service_duration":57,
+	 	 "available_days": [1,2,4],
+	 	 "time_window_per_available_day": [841,1069,802,1030,868,982],
+	 	 "optional_expertises":["Expertise2","Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "5":{
+	 	 "location":17,
+	 	 "number_visits":2,
+	 	 "service_duration":53,
+	 	 "available_days": [0,1,3,4],
+	 	 "time_window_per_available_day": [748,854,878,1090,854,1013,854,1013],
+	 	 "optional_expertises":["Expertise5"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "6":{
+	 	 "location":93,
+	 	 "number_visits":3,
+	 	 "service_duration":46,
+	 	 "available_days": [1,2,3,4,6],
+	 	 "time_window_per_available_day": [701,839,622,714,694,786,812,996,856,1040],
+	 	 "optional_expertises":["Expertise3"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "7":{
+	 	 "location":28,
+	 	 "number_visits":2,
+	 	 "service_duration":56,
+	 	 "available_days": [2,3,5],
+	 	 "time_window_per_available_day": [698,866,851,1019,788,900],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "8":{
+	 	 "location":100,
+	 	 "number_visits":1,
+	 	 "service_duration":50,
+	 	 "available_days": [3,6],
+	 	 "time_window_per_available_day": [699,849,673,823],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "9":{
+	 	 "location":27,
+	 	 "number_visits":2,
+	 	 "service_duration":51,
+	 	 "available_days": [2,3,5,6],
+	 	 "time_window_per_available_day": [639,741,728,830,862,964,797,950],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "10":{
+	 	 "location":34,
+	 	 "number_visits":2,
+	 	 "service_duration":43,
+	 	 "available_days": [2,6],
+	 	 "time_window_per_available_day": [728,900,755,841],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "11":{
+	 	 "location":88,
+	 	 "number_visits":2,
+	 	 "service_duration":43,
+	 	 "available_days": [0,3,4,5],
+	 	 "time_window_per_available_day": [753,839,801,887,709,881,655,827],
+	 	 "optional_expertises":["Expertise2"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "12":{
+	 	 "location":4,
+	 	 "number_visits":2,
+	 	 "service_duration":50,
+	 	 "available_days": [0,3,4,6],
+	 	 "time_window_per_available_day": [633,733,882,982,810,910,772,972],
+	 	 "optional_expertises":["Expertise4","Expertise5"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "13":{
+	 	 "location":136,
+	 	 "number_visits":6,
+	 	 "service_duration":43,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [533,705,610,696,672,758,658,744,830,916,827,956,762,848],
+	 	 "optional_expertises":["Expertise2","Expertise1"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "14":{
+	 	 "location":107,
+	 	 "number_visits":7,
+	 	 "service_duration":43,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [664,750,822,951,670,799,787,959,679,808,618,790,683,812],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "15":{
+	 	 "location":74,
+	 	 "number_visits":2,
+	 	 "service_duration":46,
+	 	 "available_days": [2,4,5,6],
+	 	 "time_window_per_available_day": [587,771,796,934,862,954,770,908],
+	 	 "optional_expertises":["Expertise3"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "16":{
+	 	 "location":34,
+	 	 "number_visits":2,
+	 	 "service_duration":57,
+	 	 "available_days": [0,1,2],
+	 	 "time_window_per_available_day": [790,1018,579,750,625,796],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "17":{
+	 	 "location":113,
+	 	 "number_visits":3,
+	 	 "service_duration":60,
+	 	 "available_days": [1,3,4,5,6],
+	 	 "time_window_per_available_day": [700,880,665,785,620,800,530,710,622,802],
+	 	 "optional_expertises":["Expertise2","Expertise5"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "18":{
+	 	 "location":112,
+	 	 "number_visits":3,
+	 	 "service_duration":51,
+	 	 "available_days": [3,4,6],
+	 	 "time_window_per_available_day": [862,1015,587,689,623,725],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "19":{
+	 	 "location":94,
+	 	 "number_visits":2,
+	 	 "service_duration":52,
+	 	 "available_days": [2,5],
+	 	 "time_window_per_available_day": [622,830,586,794],
+	 	 "optional_expertises":["Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "20":{
+	 	 "location":16,
+	 	 "number_visits":5,
+	 	 "service_duration":52,
+	 	 "available_days": [0,1,2,5,6],
+	 	 "time_window_per_available_day": [776,984,869,973,815,1023,763,919,549,653],
+	 	 "optional_expertises":["Expertise4","Expertise1"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "21":{
+	 	 "location":118,
+	 	 "number_visits":2,
+	 	 "service_duration":60,
+	 	 "available_days": [2,6],
+	 	 "time_window_per_available_day": [537,777,597,777],
+	 	 "optional_expertises":["Expertise3"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "22":{
+	 	 "location":102,
+	 	 "number_visits":3,
+	 	 "service_duration":41,
+	 	 "available_days": [0,1,2,3],
+	 	 "time_window_per_available_day": [520,684,849,972,709,832,686,768],
+	 	 "optional_expertises":["Expertise5","Expertise3"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "23":{
+	 	 "location":98,
+	 	 "number_visits":2,
+	 	 "service_duration":43,
+	 	 "available_days": [0,3,4,5],
+	 	 "time_window_per_available_day": [831,917,824,910,838,924,872,1001],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "24":{
+	 	 "location":3,
+	 	 "number_visits":7,
+	 	 "service_duration":58,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [863,979,567,683,749,865,718,950,735,967,706,822,894,1010],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "25":{
+	 	 "location":59,
+	 	 "number_visits":1,
+	 	 "service_duration":44,
+	 	 "available_days": [2,3],
+	 	 "time_window_per_available_day": [881,1013,634,722],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "26":{
+	 	 "location":138,
+	 	 "number_visits":2,
+	 	 "service_duration":47,
+	 	 "available_days": [5,6],
+	 	 "time_window_per_available_day": [634,822,531,625],
+	 	 "optional_expertises":["Expertise1","Expertise5"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "27":{
+	 	 "location":137,
+	 	 "number_visits":4,
+	 	 "service_duration":42,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [602,686,795,963,723,849,595,721,581,665,705,789,573,657],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "28":{
+	 	 "location":76,
+	 	 "number_visits":2,
+	 	 "service_duration":49,
+	 	 "available_days": [0,3,4,5],
+	 	 "time_window_per_available_day": [625,772,594,741,758,954,897,995],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "29":{
+	 	 "location":22,
+	 	 "number_visits":3,
+	 	 "service_duration":47,
+	 	 "available_days": [1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [843,1031,777,965,853,994,602,743,701,889,846,1034],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "30":{
+	 	 "location":22,
+	 	 "number_visits":5,
+	 	 "service_duration":52,
+	 	 "available_days": [0,2,3,4,5],
+	 	 "time_window_per_available_day": [545,649,556,764,673,777,857,1013,595,751],
+	 	 "optional_expertises":["Expertise1","Expertise3"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "31":{
+	 	 "location":102,
+	 	 "number_visits":1,
+	 	 "service_duration":43,
+	 	 "available_days": [3],
+	 	 "time_window_per_available_day": [607,693],
+	 	 "optional_expertises":["Expertise1","Expertise2"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "32":{
+	 	 "location":89,
+	 	 "number_visits":1,
+	 	 "service_duration":42,
+	 	 "available_days": [2,3],
+	 	 "time_window_per_available_day": [799,925,802,928],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "33":{
+	 	 "location":28,
+	 	 "number_visits":6,
+	 	 "service_duration":60,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [542,662,814,994,609,849,836,1076,589,769,575,755,831,1071],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "34":{
+	 	 "location":32,
+	 	 "number_visits":4,
+	 	 "service_duration":54,
+	 	 "available_days": [1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [511,727,806,914,604,820,804,966,604,712,648,864],
+	 	 "optional_expertises":["Expertise3","Expertise5"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "35":{
+	 	 "location":61,
+	 	 "number_visits":4,
+	 	 "service_duration":55,
+	 	 "available_days": [0,2,4,5,6],
+	 	 "time_window_per_available_day": [863,1028,790,1010,879,1044,747,912,707,872],
+	 	 "optional_expertises":["Expertise3"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "36":{
+	 	 "location":69,
+	 	 "number_visits":1,
+	 	 "service_duration":41,
+	 	 "available_days": [5],
+	 	 "time_window_per_available_day": [636,759],
+	 	 "optional_expertises":["Expertise5","Expertise1"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "37":{
+	 	 "location":53,
+	 	 "number_visits":2,
+	 	 "service_duration":41,
+	 	 "available_days": [0,4,5,6],
+	 	 "time_window_per_available_day": [706,788,630,753,834,916,779,861],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "38":{
+	 	 "location":140,
+	 	 "number_visits":1,
+	 	 "service_duration":48,
+	 	 "available_days": [1],
+	 	 "time_window_per_available_day": [552,648],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "39":{
+	 	 "location":98,
+	 	 "number_visits":3,
+	 	 "service_duration":56,
+	 	 "available_days": [2,5,6],
+	 	 "time_window_per_available_day": [739,907,742,910,664,776],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "40":{
+	 	 "location":59,
+	 	 "number_visits":2,
+	 	 "service_duration":44,
+	 	 "available_days": [2,5],
+	 	 "time_window_per_available_day": [641,729,553,729],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "41":{
+	 	 "location":32,
+	 	 "number_visits":4,
+	 	 "service_duration":45,
+	 	 "available_days": [0,1,2,3,4],
+	 	 "time_window_per_available_day": [625,715,894,984,829,919,569,749,778,868],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "42":{
+	 	 "location":29,
+	 	 "number_visits":7,
+	 	 "service_duration":59,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [693,929,772,949,863,1040,862,1098,627,804,681,858,744,921],
+	 	 "optional_expertises":["Expertise2","Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "43":{
+	 	 "location":52,
+	 	 "number_visits":1,
+	 	 "service_duration":46,
+	 	 "available_days": [3,5],
+	 	 "time_window_per_available_day": [742,926,722,814],
+	 	 "optional_expertises":["Expertise4","Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "44":{
+	 	 "location":43,
+	 	 "number_visits":2,
+	 	 "service_duration":40,
+	 	 "available_days": [0,2,3,6],
+	 	 "time_window_per_available_day": [640,720,764,924,654,734,802,922],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "45":{
+	 	 "location":13,
+	 	 "number_visits":2,
+	 	 "service_duration":46,
+	 	 "available_days": [1,6],
+	 	 "time_window_per_available_day": [857,949,811,903],
+	 	 "optional_expertises":["Expertise5","Expertise4"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "46":{
+	 	 "location":75,
+	 	 "number_visits":2,
+	 	 "service_duration":49,
+	 	 "available_days": [0,2,3,4],
+	 	 "time_window_per_available_day": [855,953,503,699,574,770,555,751],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "47":{
+	 	 "location":67,
+	 	 "number_visits":4,
+	 	 "service_duration":53,
+	 	 "available_days": [0,2,3,4,5,6],
+	 	 "time_window_per_available_day": [827,933,766,872,731,837,597,809,769,928,805,964],
+	 	 "optional_expertises":["Expertise2","Expertise4"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "48":{
+	 	 "location":47,
+	 	 "number_visits":1,
+	 	 "service_duration":48,
+	 	 "available_days": [6],
+	 	 "time_window_per_available_day": [671,767],
+	 	 "optional_expertises":["Expertise1","Expertise3"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "49":{
+	 	 "location":127,
+	 	 "number_visits":2,
+	 	 "service_duration":55,
+	 	 "available_days": [2,6],
+	 	 "time_window_per_available_day": [620,840,680,900],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "50":{
+	 	 "location":116,
+	 	 "number_visits":2,
+	 	 "service_duration":42,
+	 	 "available_days": [0,2,5],
+	 	 "time_window_per_available_day": [568,736,894,978,631,757],
+	 	 "optional_expertises":["Expertise5"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "51":{
+	 	 "location":102,
+	 	 "number_visits":3,
+	 	 "service_duration":46,
+	 	 "available_days": [0,1,3,4,5,6],
+	 	 "time_window_per_available_day": [791,929,838,1022,804,896,851,943,620,712,686,870],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "52":{
+	 	 "location":86,
+	 	 "number_visits":3,
+	 	 "service_duration":43,
+	 	 "available_days": [2,3,5,6],
+	 	 "time_window_per_available_day": [623,795,519,648,880,966,616,788],
+	 	 "optional_expertises":["Expertise1","Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "53":{
+	 	 "location":93,
+	 	 "number_visits":3,
+	 	 "service_duration":43,
+	 	 "available_days": [1,2,3,5,6],
+	 	 "time_window_per_available_day": [586,715,773,945,782,954,754,926,851,937],
+	 	 "optional_expertises":["Expertise5"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "54":{
+	 	 "location":42,
+	 	 "number_visits":3,
+	 	 "service_duration":41,
+	 	 "available_days": [0,1,3,5,6],
+	 	 "time_window_per_available_day": [786,950,692,774,747,829,758,840,867,990],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "55":{
+	 	 "location":58,
+	 	 "number_visits":2,
+	 	 "service_duration":53,
+	 	 "available_days": [2,6],
+	 	 "time_window_per_available_day": [856,962,761,867],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "56":{
+	 	 "location":8,
+	 	 "number_visits":4,
+	 	 "service_duration":44,
+	 	 "available_days": [0,1,2,4,5],
+	 	 "time_window_per_available_day": [596,684,621,753,673,805,895,1027,759,847],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "57":{
+	 	 "location":9,
+	 	 "number_visits":3,
+	 	 "service_duration":54,
+	 	 "available_days": [1,2,3,5,6],
+	 	 "time_window_per_available_day": [871,1033,570,786,742,850,691,799,621,783],
+	 	 "optional_expertises":["Expertise5","Expertise3"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "58":{
+	 	 "location":136,
+	 	 "number_visits":7,
+	 	 "service_duration":56,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [779,947,760,872,797,1021,607,831,507,731,883,1107,773,885],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "59":{
+	 	 "location":18,
+	 	 "number_visits":3,
+	 	 "service_duration":49,
+	 	 "available_days": [0,2,3,4,5,6],
+	 	 "time_window_per_available_day": [759,857,665,812,694,792,883,981,661,857,545,643],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "60":{
+	 	 "location":96,
+	 	 "number_visits":4,
+	 	 "service_duration":53,
+	 	 "available_days": [0,3,5,6],
+	 	 "time_window_per_available_day": [724,883,626,732,723,829,854,1013],
+	 	 "optional_expertises":["Expertise3"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "61":{
+	 	 "location":87,
+	 	 "number_visits":3,
+	 	 "service_duration":58,
+	 	 "available_days": [1,3,4,6],
+	 	 "time_window_per_available_day": [730,846,735,909,812,928,757,989],
+	 	 "optional_expertises":["Expertise4","Expertise3"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "62":{
+	 	 "location":119,
+	 	 "number_visits":2,
+	 	 "service_duration":42,
+	 	 "available_days": [0,2,4,5],
+	 	 "time_window_per_available_day": [700,868,813,897,890,974,583,667],
+	 	 "optional_expertises":["Expertise4","Expertise3"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "63":{
+	 	 "location":63,
+	 	 "number_visits":3,
+	 	 "service_duration":44,
+	 	 "available_days": [1,2,3,6],
+	 	 "time_window_per_available_day": [525,657,894,982,668,844,813,901],
+	 	 "optional_expertises":["Expertise1","Expertise2"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "64":{
+	 	 "location":33,
+	 	 "number_visits":5,
+	 	 "service_duration":54,
+	 	 "available_days": [0,2,3,4,5],
+	 	 "time_window_per_available_day": [844,1006,553,715,647,863,864,972,576,792],
+	 	 "optional_expertises":["Expertise3"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "65":{
+	 	 "location":39,
+	 	 "number_visits":3,
+	 	 "service_duration":49,
+	 	 "available_days": [0,1,3,6],
+	 	 "time_window_per_available_day": [560,707,837,984,749,847,896,994],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "66":{
+	 	 "location":66,
+	 	 "number_visits":5,
+	 	 "service_duration":44,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [512,688,857,1033,605,737,521,653,834,922,685,817,838,926],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "67":{
+	 	 "location":140,
+	 	 "number_visits":2,
+	 	 "service_duration":59,
+	 	 "available_days": [1,6],
+	 	 "time_window_per_available_day": [600,836,699,876],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "68":{
+	 	 "location":67,
+	 	 "number_visits":2,
+	 	 "service_duration":44,
+	 	 "available_days": [0,1,2,5],
+	 	 "time_window_per_available_day": [767,943,832,920,542,674,864,952],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "69":{
+	 	 "location":29,
+	 	 "number_visits":3,
+	 	 "service_duration":56,
+	 	 "available_days": [0,2,3,4,5],
+	 	 "time_window_per_available_day": [661,829,744,912,842,1010,514,682,593,761],
+	 	 "optional_expertises":["Expertise3"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "70":{
+	 	 "location":20,
+	 	 "number_visits":3,
+	 	 "service_duration":51,
+	 	 "available_days": [1,3,4,5],
+	 	 "time_window_per_available_day": [797,1001,685,889,656,809,675,828],
+	 	 "optional_expertises":["Expertise1","Expertise4"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "71":{
+	 	 "location":81,
+	 	 "number_visits":3,
+	 	 "service_duration":50,
+	 	 "available_days": [0,3,4],
+	 	 "time_window_per_available_day": [599,749,855,955,605,755],
+	 	 "optional_expertises":["Expertise1","Expertise2"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "72":{
+	 	 "location":64,
+	 	 "number_visits":4,
+	 	 "service_duration":43,
+	 	 "available_days": [0,1,2,3,4,6],
+	 	 "time_window_per_available_day": [895,1024,880,1052,807,893,820,949,802,931,693,779],
+	 	 "optional_expertises":["Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "73":{
+	 	 "location":30,
+	 	 "number_visits":4,
+	 	 "service_duration":40,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [676,756,816,976,525,685,524,684,797,917,861,1021,744,824],
+	 	 "optional_expertises":["Expertise2"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "74":{
+	 	 "location":127,
+	 	 "number_visits":6,
+	 	 "service_duration":53,
+	 	 "available_days": [1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [799,1011,718,930,878,984,882,1041,621,833,894,1053],
+	 	 "optional_expertises":["Expertise2"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "75":{
+	 	 "location":11,
+	 	 "number_visits":2,
+	 	 "service_duration":41,
+	 	 "available_days": [0,2,5,6],
+	 	 "time_window_per_available_day": [581,745,531,613,552,716,851,933],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "76":{
+	 	 "location":51,
+	 	 "number_visits":2,
+	 	 "service_duration":60,
+	 	 "available_days": [2,4,5],
+	 	 "time_window_per_available_day": [810,1050,760,940,566,806],
+	 	 "optional_expertises":["Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "77":{
+	 	 "location":74,
+	 	 "number_visits":3,
+	 	 "service_duration":53,
+	 	 "available_days": [0,1,3,4,6],
+	 	 "time_window_per_available_day": [591,803,803,1015,667,826,514,726,699,858],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "78":{
+	 	 "location":111,
+	 	 "number_visits":3,
+	 	 "service_duration":56,
+	 	 "available_days": [0,2,4],
+	 	 "time_window_per_available_day": [780,1004,708,820,889,1001],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "79":{
+	 	 "location":35,
+	 	 "number_visits":2,
+	 	 "service_duration":44,
+	 	 "available_days": [1,3,4],
+	 	 "time_window_per_available_day": [596,728,868,1044,726,902],
+	 	 "optional_expertises":["Expertise3"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "80":{
+	 	 "location":116,
+	 	 "number_visits":2,
+	 	 "service_duration":57,
+	 	 "available_days": [1,2,4],
+	 	 "time_window_per_available_day": [842,956,843,1014,852,1080],
+	 	 "optional_expertises":["Expertise4","Expertise1"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "81":{
+	 	 "location":88,
+	 	 "number_visits":3,
+	 	 "service_duration":53,
+	 	 "available_days": [0,1,2,3,4,6],
+	 	 "time_window_per_available_day": [506,718,895,1054,868,1027,646,752,578,684,537,749],
+	 	 "optional_expertises":["Expertise3"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "82":{
+	 	 "location":85,
+	 	 "number_visits":7,
+	 	 "service_duration":45,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [781,916,722,857,609,744,851,1031,717,897,760,940,816,951],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "83":{
+	 	 "location":95,
+	 	 "number_visits":2,
+	 	 "service_duration":44,
+	 	 "available_days": [1,4],
+	 	 "time_window_per_available_day": [590,722,636,812],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "84":{
+	 	 "location":19,
+	 	 "number_visits":3,
+	 	 "service_duration":49,
+	 	 "available_days": [0,2,3,4,5,6],
+	 	 "time_window_per_available_day": [709,856,782,880,615,811,900,1096,763,861,651,798],
+	 	 "optional_expertises":["Expertise2","Expertise1"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "85":{
+	 	 "location":46,
+	 	 "number_visits":3,
+	 	 "service_duration":40,
+	 	 "available_days": [1,2,3],
+	 	 "time_window_per_available_day": [881,961,563,723,828,948],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "86":{
+	 	 "location":110,
+	 	 "number_visits":2,
+	 	 "service_duration":40,
+	 	 "available_days": [2,5],
+	 	 "time_window_per_available_day": [579,699,648,808],
+	 	 "optional_expertises":["Expertise4","Expertise1"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "87":{
+	 	 "location":91,
+	 	 "number_visits":7,
+	 	 "service_duration":40,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [770,850,715,835,684,844,851,931,662,782,659,739,745,905],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "88":{
+	 	 "location":32,
+	 	 "number_visits":3,
+	 	 "service_duration":57,
+	 	 "available_days": [1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [843,957,627,855,637,865,605,833,701,815,769,940],
+	 	 "optional_expertises":["Expertise5","Expertise4"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "89":{
+	 	 "location":13,
+	 	 "number_visits":1,
+	 	 "service_duration":58,
+	 	 "available_days": [1,4],
+	 	 "time_window_per_available_day": [631,863,684,858],
+	 	 "optional_expertises":["Expertise3","Expertise1"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "90":{
+	 	 "location":38,
+	 	 "number_visits":3,
+	 	 "service_duration":50,
+	 	 "available_days": [1,2,3,4,5],
+	 	 "time_window_per_available_day": [632,832,783,883,570,670,549,699,717,867],
+	 	 "optional_expertises":["Expertise2","Expertise1"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "91":{
+	 	 "location":130,
+	 	 "number_visits":1,
+	 	 "service_duration":58,
+	 	 "available_days": [4],
+	 	 "time_window_per_available_day": [723,839],
+	 	 "optional_expertises":["Expertise3","Expertise1"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "92":{
+	 	 "location":107,
+	 	 "number_visits":2,
+	 	 "service_duration":49,
+	 	 "available_days": [5,6],
+	 	 "time_window_per_available_day": [534,681,789,936],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "93":{
+	 	 "location":85,
+	 	 "number_visits":6,
+	 	 "service_duration":48,
+	 	 "available_days": [0,1,2,3,5,6],
+	 	 "time_window_per_available_day": [793,985,683,779,686,878,691,787,764,860,858,954],
+	 	 "optional_expertises":["Expertise2"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "94":{
+	 	 "location":75,
+	 	 "number_visits":3,
+	 	 "service_duration":59,
+	 	 "available_days": [1,2,4,5,6],
+	 	 "time_window_per_available_day": [710,946,817,1053,780,957,698,816,633,869],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "95":{
+	 	 "location":34,
+	 	 "number_visits":1,
+	 	 "service_duration":54,
+	 	 "available_days": [1,5],
+	 	 "time_window_per_available_day": [592,808,632,740],
+	 	 "optional_expertises":["Expertise4","Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "96":{
+	 	 "location":118,
+	 	 "number_visits":2,
+	 	 "service_duration":43,
+	 	 "available_days": [0,3,4,5],
+	 	 "time_window_per_available_day": [565,694,648,734,667,839,766,852],
+	 	 "optional_expertises":["Expertise5","Expertise1"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "97":{
+	 	 "location":131,
+	 	 "number_visits":5,
+	 	 "service_duration":43,
+	 	 "available_days": [0,1,3,4,5,6],
+	 	 "time_window_per_available_day": [559,731,656,785,569,698,538,667,827,999,600,686],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "98":{
+	 	 "location":135,
+	 	 "number_visits":5,
+	 	 "service_duration":52,
+	 	 "available_days": [0,3,4,5,6],
+	 	 "time_window_per_available_day": [632,840,689,793,564,720,719,875,619,827],
+	 	 "optional_expertises":["Expertise5"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "99":{
+	 	 "location":105,
+	 	 "number_visits":1,
+	 	 "service_duration":57,
+	 	 "available_days": [6],
+	 	 "time_window_per_available_day": [556,670],
+	 	 "optional_expertises":["Expertise3","Expertise2"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "100":{
+	 	 "location":78,
+	 	 "number_visits":3,
+	 	 "service_duration":51,
+	 	 "available_days": [2,3,4,5,6],
+	 	 "time_window_per_available_day": [586,790,761,914,781,883,640,793,732,885],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "101":{
+	 	 "location":122,
+	 	 "number_visits":4,
+	 	 "service_duration":57,
+	 	 "available_days": [0,1,2,3,4],
+	 	 "time_window_per_available_day": [849,1077,650,764,563,677,865,1093,744,972],
+	 	 "optional_expertises":["Expertise4","Expertise3"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "102":{
+	 	 "location":47,
+	 	 "number_visits":2,
+	 	 "service_duration":54,
+	 	 "available_days": [0,4,6],
+	 	 "time_window_per_available_day": [603,765,698,914,589,697],
+	 	 "optional_expertises":["Expertise4","Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "103":{
+	 	 "location":81,
+	 	 "number_visits":3,
+	 	 "service_duration":53,
+	 	 "available_days": [2,3,4],
+	 	 "time_window_per_available_day": [818,924,832,991,628,840],
+	 	 "optional_expertises":["Expertise5","Expertise1"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "104":{
+	 	 "location":21,
+	 	 "number_visits":3,
+	 	 "service_duration":42,
+	 	 "available_days": [0,2,4],
+	 	 "time_window_per_available_day": [820,904,531,615,860,1028],
+	 	 "optional_expertises":["Expertise1","Expertise4"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "105":{
+	 	 "location":132,
+	 	 "number_visits":1,
+	 	 "service_duration":48,
+	 	 "available_days": [4],
+	 	 "time_window_per_available_day": [724,916],
+	 	 "optional_expertises":["Expertise2","Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "106":{
+	 	 "location":120,
+	 	 "number_visits":2,
+	 	 "service_duration":53,
+	 	 "available_days": [2,4,6],
+	 	 "time_window_per_available_day": [537,643,631,790,572,731],
+	 	 "optional_expertises":["Expertise5","Expertise3"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "107":{
+	 	 "location":118,
+	 	 "number_visits":2,
+	 	 "service_duration":48,
+	 	 "available_days": [2,4,5,6],
+	 	 "time_window_per_available_day": [657,801,670,862,800,944,547,739],
+	 	 "optional_expertises":["Expertise5","Expertise2"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "108":{
+	 	 "location":42,
+	 	 "number_visits":2,
+	 	 "service_duration":53,
+	 	 "available_days": [1,2,5,6],
+	 	 "time_window_per_available_day": [586,692,568,780,595,754,710,869],
+	 	 "optional_expertises":["Expertise4","Expertise1"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "109":{
+	 	 "location":9,
+	 	 "number_visits":2,
+	 	 "service_duration":50,
+	 	 "available_days": [0,5],
+	 	 "time_window_per_available_day": [627,827,706,856],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "110":{
+	 	 "location":28,
+	 	 "number_visits":2,
+	 	 "service_duration":49,
+	 	 "available_days": [0,4],
+	 	 "time_window_per_available_day": [724,822,822,969],
+	 	 "optional_expertises":["Expertise2"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "111":{
+	 	 "location":132,
+	 	 "number_visits":6,
+	 	 "service_duration":49,
+	 	 "available_days": [0,1,3,4,5,6],
+	 	 "time_window_per_available_day": [675,871,641,788,618,716,699,797,536,683,680,778],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "112":{
+	 	 "location":34,
+	 	 "number_visits":3,
+	 	 "service_duration":48,
+	 	 "available_days": [0,1,4,6],
+	 	 "time_window_per_available_day": [623,767,515,611,592,736,899,1043],
+	 	 "optional_expertises":["Expertise1","Expertise4"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "113":{
+	 	 "location":57,
+	 	 "number_visits":2,
+	 	 "service_duration":44,
+	 	 "available_days": [0,2,4],
+	 	 "time_window_per_available_day": [533,709,530,706,843,931],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "114":{
+	 	 "location":102,
+	 	 "number_visits":3,
+	 	 "service_duration":54,
+	 	 "available_days": [1,3,4,6],
+	 	 "time_window_per_available_day": [675,891,614,830,606,822,751,967],
+	 	 "optional_expertises":["Expertise4","Expertise3"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "115":{
+	 	 "location":33,
+	 	 "number_visits":3,
+	 	 "service_duration":40,
+	 	 "available_days": [1,4,5],
+	 	 "time_window_per_available_day": [504,624,666,826,667,747],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "116":{
+	 	 "location":128,
+	 	 "number_visits":5,
+	 	 "service_duration":56,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [618,730,767,879,893,1005,674,786,693,917,671,839,718,942],
+	 	 "optional_expertises":["Expertise4","Expertise2"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "117":{
+	 	 "location":107,
+	 	 "number_visits":5,
+	 	 "service_duration":57,
+	 	 "available_days": [1,3,4,5,6],
+	 	 "time_window_per_available_day": [832,1060,715,829,886,1114,850,1078,764,992],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "118":{
+	 	 "location":57,
+	 	 "number_visits":3,
+	 	 "service_duration":47,
+	 	 "available_days": [3,4,6],
+	 	 "time_window_per_available_day": [620,714,685,826,657,751],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "119":{
+	 	 "location":138,
+	 	 "number_visits":1,
+	 	 "service_duration":48,
+	 	 "available_days": [6],
+	 	 "time_window_per_available_day": [609,801],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "120":{
+	 	 "location":106,
+	 	 "number_visits":2,
+	 	 "service_duration":42,
+	 	 "available_days": [0,1,5],
+	 	 "time_window_per_available_day": [726,894,768,852,669,795],
+	 	 "optional_expertises":["Expertise5","Expertise4"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "121":{
+	 	 "location":1,
+	 	 "number_visits":3,
+	 	 "service_duration":53,
+	 	 "available_days": [0,3,6],
+	 	 "time_window_per_available_day": [717,823,535,694,875,981],
+	 	 "optional_expertises":["Expertise2"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "122":{
+	 	 "location":67,
+	 	 "number_visits":2,
+	 	 "service_duration":43,
+	 	 "available_days": [4,6],
+	 	 "time_window_per_available_day": [896,982,846,932],
+	 	 "optional_expertises":["Expertise4","Expertise2"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "123":{
+	 	 "location":11,
+	 	 "number_visits":4,
+	 	 "service_duration":55,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [739,959,631,796,764,874,796,1016,630,850,569,679,694,804],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "124":{
+	 	 "location":102,
+	 	 "number_visits":3,
+	 	 "service_duration":54,
+	 	 "available_days": [0,1,2,4,5],
+	 	 "time_window_per_available_day": [809,971,867,1083,726,888,551,767,679,787],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "125":{
+	 	 "location":91,
+	 	 "number_visits":5,
+	 	 "service_duration":57,
+	 	 "available_days": [0,1,2,4,6],
+	 	 "time_window_per_available_day": [522,750,744,972,682,910,683,911,638,866],
+	 	 "optional_expertises":["Expertise3","Expertise2"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "126":{
+	 	 "location":95,
+	 	 "number_visits":1,
+	 	 "service_duration":40,
+	 	 "available_days": [2,4],
+	 	 "time_window_per_available_day": [503,583,541,701],
+	 	 "optional_expertises":["Expertise1","Expertise3"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "127":{
+	 	 "location":76,
+	 	 "number_visits":1,
+	 	 "service_duration":46,
+	 	 "available_days": [4],
+	 	 "time_window_per_available_day": [598,690],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "128":{
+	 	 "location":45,
+	 	 "number_visits":4,
+	 	 "service_duration":42,
+	 	 "available_days": [0,1,2,3,4,5,6],
+	 	 "time_window_per_available_day": [534,702,727,895,554,638,849,933,552,720,772,940,564,690],
+	 	 "optional_expertises":["Expertise5","Expertise3"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "129":{
+	 	 "location":73,
+	 	 "number_visits":3,
+	 	 "service_duration":58,
+	 	 "available_days": [1,2,6],
+	 	 "time_window_per_available_day": [895,1069,873,1105,568,800],
+	 	 "optional_expertises":["Expertise5","Expertise4"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "130":{
+	 	 "location":74,
+	 	 "number_visits":1,
+	 	 "service_duration":57,
+	 	 "available_days": [1],
+	 	 "time_window_per_available_day": [728,956],
+	 	 "optional_expertises":["Expertise4","Expertise3"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "131":{
+	 	 "location":49,
+	 	 "number_visits":2,
+	 	 "service_duration":51,
+	 	 "available_days": [1,4,6],
+	 	 "time_window_per_available_day": [759,963,866,1070,792,894],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "132":{
+	 	 "location":68,
+	 	 "number_visits":1,
+	 	 "service_duration":58,
+	 	 "available_days": [4],
+	 	 "time_window_per_available_day": [520,636],
+	 	 "optional_expertises":["Expertise5"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "133":{
+	 	 "location":140,
+	 	 "number_visits":2,
+	 	 "service_duration":41,
+	 	 "available_days": [2,4,5],
+	 	 "time_window_per_available_day": [884,1048,828,992,727,850],
+	 	 "optional_expertises":["Expertise5","Expertise1"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "134":{
+	 	 "location":115,
+	 	 "number_visits":1,
+	 	 "service_duration":46,
+	 	 "available_days": [4],
+	 	 "time_window_per_available_day": [599,691],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "135":{
+	 	 "location":7,
+	 	 "number_visits":2,
+	 	 "service_duration":59,
+	 	 "available_days": [0,1],
+	 	 "time_window_per_available_day": [707,825,554,790],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "136":{
+	 	 "location":90,
+	 	 "number_visits":2,
+	 	 "service_duration":40,
+	 	 "available_days": [0,3],
+	 	 "time_window_per_available_day": [869,1029,687,847],
+	 	 "optional_expertises":["Expertise4","Expertise5"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "137":{
+	 	 "location":45,
+	 	 "number_visits":3,
+	 	 "service_duration":44,
+	 	 "available_days": [0,1,6],
+	 	 "time_window_per_available_day": [534,666,590,722,794,970],
+	 	 "optional_expertises":["Expertise1","Expertise3"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "138":{
+	 	 "location":46,
+	 	 "number_visits":2,
+	 	 "service_duration":59,
+	 	 "available_days": [0,1,5],
+	 	 "time_window_per_available_day": [876,994,765,883,812,1048],
+	 	 "optional_expertises":["Expertise1","Expertise2"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "139":{
+	 	 "location":96,
+	 	 "number_visits":1,
+	 	 "service_duration":48,
+	 	 "available_days": [0,3],
+	 	 "time_window_per_available_day": [677,821,844,940],
+	 	 "optional_expertises":["Expertise1","Expertise3"],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "140":{
+	 	 "location":25,
+	 	 "number_visits":1,
+	 	 "service_duration":57,
+	 	 "available_days": [1,5],
+	 	 "time_window_per_available_day": [773,887,558,672],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "141":{
+	 	 "location":130,
+	 	 "number_visits":2,
+	 	 "service_duration":54,
+	 	 "available_days": [1,2,3,5],
+	 	 "time_window_per_available_day": [852,1068,697,805,767,875,660,876],
+	 	 "optional_expertises":["Expertise2","Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "142":{
+	 	 "location":69,
+	 	 "number_visits":4,
+	 	 "service_duration":57,
+	 	 "available_days": [1,2,3,5,6],
+	 	 "time_window_per_available_day": [817,988,815,1043,884,1055,788,902,502,730],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "143":{
+	 	 "location":139,
+	 	 "number_visits":2,
+	 	 "service_duration":46,
+	 	 "available_days": [0,2,3,6],
+	 	 "time_window_per_available_day": [567,659,885,1069,886,978,890,1074],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "144":{
+	 	 "location":80,
+	 	 "number_visits":2,
+	 	 "service_duration":51,
+	 	 "available_days": [1,2,4,6],
+	 	 "time_window_per_available_day": [781,883,803,956,625,829,586,739],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "145":{
+	 	 "location":108,
+	 	 "number_visits":4,
+	 	 "service_duration":41,
+	 	 "available_days": [1,3,4,5],
+	 	 "time_window_per_available_day": [861,984,900,1064,572,736,603,767],
+	 	 "optional_expertises":["Expertise2","Expertise5"],
+	 	 "mandatory_expertises":["Expertise3"]
+	 },
+	 "146":{
+	 	 "location":100,
+	 	 "number_visits":3,
+	 	 "service_duration":47,
+	 	 "available_days": [0,1,2,3,4,6],
+	 	 "time_window_per_available_day": [697,838,603,697,515,609,529,670,792,933,519,613],
+	 	 "optional_expertises":["Expertise4"],
+	 	 "mandatory_expertises":["Expertise2"]
+	 },
+	 "147":{
+	 	 "location":33,
+	 	 "number_visits":1,
+	 	 "service_duration":52,
+	 	 "available_days": [6],
+	 	 "time_window_per_available_day": [680,836],
+	 	 "optional_expertises":[],
+	 	 "mandatory_expertises":["Expertise5"]
+	 },
+	 "148":{
+	 	 "location":91,
+	 	 "number_visits":3,
+	 	 "service_duration":56,
+	 	 "available_days": [2,3,6],
+	 	 "time_window_per_available_day": [512,736,689,913,642,810],
+	 	 "optional_expertises":["Expertise1"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 },
+	 "149":{
+	 	 "location":66,
+	 	 "number_visits":3,
+	 	 "service_duration":60,
+	 	 "available_days": [0,1,2,3,5],
+	 	 "time_window_per_available_day": [590,710,833,1013,757,997,823,943,696,816],
+	 	 "optional_expertises":["Expertise3","Expertise1"],
+	 	 "mandatory_expertises":["Expertise4"]
+	 }
+}
